@@ -26,4 +26,4 @@ eureka:
     lease-renewal-interval-in-seconds: 30
     
 test:
-  message: hello world！
+  message: hello world！hello world！
