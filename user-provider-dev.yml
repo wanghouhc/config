@@ -26,4 +26,4 @@ eureka:
     lease-renewal-interval-in-seconds: 30
     
 test:
-  message: hello world！hello world！简直我草，高了两天，日他妈
+  message: hello world！hello world！简直我草，高了两天，日他妈，为啥是5672
